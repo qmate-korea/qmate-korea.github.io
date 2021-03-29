@@ -36,13 +36,13 @@ highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
 
-permalink: /blog/:title/
+permalink:  /blog/:title/
 
 layouts_dir: _src/_layouts
 includes_dir: _src/_includes
 plugins_dir: _src/_plugins
 
-destination: ../../../../public
+destination: public
 port: 4000
 host: localhost
 
