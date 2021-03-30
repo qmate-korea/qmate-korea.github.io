@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-30T20:41:25+09:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/Welcome%20to%20Jekyll!" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-10-03T22:22:16+09:00</published><updated>2019-10-03T22:22:16+09:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/Welcome%20to%20Jekyll!">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/https://qmate-korea.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/https://qmate-korea.github.io/" rel="alternate" type="text/html" /><updated>2021-03-30T21:02:00+09:00</updated><id>http://localhost:4000/https://qmate-korea.github.io/feed.xml</id><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/https://qmate-korea.github.io/blog/Welcome%20to%20Jekyll!" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-10-03T22:22:16+09:00</published><updated>2019-10-03T22:22:16+09:00</updated><id>http://localhost:4000/https://qmate-korea.github.io/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/https://qmate-korea.github.io/blog/Welcome%20to%20Jekyll!">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#examples&quot; id=&quot;markdown-toc-examples&quot;&gt;Examples&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#table&quot; id=&quot;markdown-toc-table&quot;&gt;Table&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#list&quot; id=&quot;markdown-toc-list&quot;&gt;List&lt;/a&gt;&lt;/li&gt;
@@ -91,20 +91,20 @@
 &lt;h2 id=&quot;image-responsive-plugin-imager&quot;&gt;Image responsive (plugin Imager)&lt;/h2&gt;
 
 &lt;div class=&quot;row imager__plugin&quot;&gt;
-            &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;//assets/images/posts/typing_logotype.png&quot; title=&quot;typing_logotype.png&quot; alt=&quot;typing_logotype.png&quot; /&gt;
+            &lt;img class=&quot;img-fluid mx-auto d-block&quot; src=&quot;https://qmate-korea.github.io//assets/images/posts/typing_logotype.png&quot; title=&quot;typing_logotype.png&quot; alt=&quot;typing_logotype.png&quot; /&gt;
           &lt;/div&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;float: left;&quot; class=&quot;img-fluid imager__plugin&quot; src=&quot;//assets/images/posts/typing_logotype.png&quot; title=&quot;typing_logotype.png&quot; alt=&quot;typing_logotype.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: left;&quot; class=&quot;img-fluid imager__plugin&quot; src=&quot;https://qmate-korea.github.io//assets/images/posts/typing_logotype.png&quot; title=&quot;typing_logotype.png&quot; alt=&quot;typing_logotype.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;float: right;&quot; class=&quot;img-fluid imager__plugin&quot; src=&quot;//assets/images/posts/typing_logotype.png&quot; title=&quot;typing_logotype.png&quot; alt=&quot;typing_logotype.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;float: right;&quot; class=&quot;img-fluid imager__plugin&quot; src=&quot;https://qmate-korea.github.io//assets/images/posts/typing_logotype.png&quot; title=&quot;typing_logotype.png&quot; alt=&quot;typing_logotype.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
