@@ -1,6 +1,6 @@
 (function() {
   $('#markdown-toc').hover(function() {
-    return $(this).attr('data-content', 'Table of Content');
+    return $(this).attr('data-content', '');
   });
 
   $("#markdown-toc a").click(function() {
